@@ -1,0 +1,3340 @@
+{
+    type: "FeatureCollection",
+    features: [
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAm"
+                },
+                name: "Tacoma Denture Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4766658,
+                    47.22379859999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAn"
+                },
+                name: "Stephen R. Hansen, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4833076,
+                    47.2467735
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAo"
+                },
+                name: "Dental Health Associates"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5167483,
+                    47.1673026
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAp"
+                },
+                name: "Innovative Smiles - Gary L Grimm, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5758521,
+                    47.3091606
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAq"
+                },
+                name: "Duane H Mayeda DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.433526,
+                    47.209111
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAr"
+                },
+                name: "Nguyen Audrey DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4543208,
+                    47.2515732
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAs"
+                },
+                name: "Baer Smith Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5284644,
+                    47.2454354
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAt"
+                },
+                name: "Gentle Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2104228,
+                    47.2429904
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAu"
+                },
+                name: "Stephen P Greiwe, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4875701,
+                    47.2717631
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAv"
+                },
+                name: "Parkland Smile Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4371058,
+                    47.1311901
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAw"
+                },
+                name: "Bridgeport Dental Arts"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.536191,
+                    47.219916
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAx"
+                },
+                name: "Laviola Mark D"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4813942,
+                    47.2418182
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAy"
+                },
+                name: "Steve Marinkovich, DDS, D.ABDSM"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.463501,
+                    47.2091101
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DAz"
+                },
+                name: "Down to Earth Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.381446,
+                    47.2947347
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DA{"
+                },
+                name: "Xu Kevin DDS Ms PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4643635,
+                    47.2103943
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DA|"
+                },
+                name: "Leonard E. Loflin, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4366351,
+                    47.3009783
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DA}"
+                },
+                name: "Zimmer Gregory DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.43526,
+                    47.301708
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DA~"
+                },
+                name: "Puyallup Smiles Dentistry and Orthodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2935816,
+                    47.1029014
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DA"
+                },
+                name: "Parker Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.518738,
+                    47.174039
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|{ZY'DA"
+                },
+                name: "Carlson William J DDS Tacoma Denture Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4766658,
+                    47.22379859999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Arvind Petrie DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4837177,
+                    47.245314
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Steve L Tuley, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.478029,
+                    47.2707111
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Giap Dat DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4410125,
+                    47.2230807
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Adams Family Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Puget Sound Dental Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Alan Macks DMD & Associates"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4635739,
+                    47.2086233
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¡{ZY'DA"
+                },
+                name: "Westgate Dental Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5153052,
+                    47.2666808
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Gregory R Fisher, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5275156,
+                    47.2453982
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Adams Michael S, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4875701,
+                    47.2717631
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Light Touch Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4334257,
+                    47.2124938
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Kinoshita James F DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.348235,
+                    47.23838
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Avalon Family Dentistry, Inc"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3245278,
+                    47.3154687
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Brian V Kerr, DMD, PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5515209,
+                    47.1791014
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Stephen Y Pong, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3616463,
+                    47.3007685
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Puyallup Valley Dental Care"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2538249,
+                    47.1952705
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "Distinctive Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3537916,
+                    47.2341609
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¦{ZY'DA"
+                },
+                name: "West John David DDS MSD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.501568,
+                    47.2433819
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|«{ZY'DA"
+                },
+                name: "Brain George C DDS MSD PC"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4813942,
+                    47.2418182
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|«{ZY'DA"
+                },
+                name: "Williams B H DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4676689,
+                    47.2745308
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|«{ZY'DA"
+                },
+                name: "McPhee - Brad and Sean"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.532559,
+                    47.220519
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|«{ZY'DA"
+                },
+                name: "Cook Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2242663,
+                    47.30443229999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|«{ZY'DA"
+                },
+                name: "Willamette Dental Group"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5093967,
+                    47.2570341
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Edgar Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3339948,
+                    47.3140672
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Community Health Care"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4334729,
+                    47.2384977
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Willie J Mccullum, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.451108,
+                    47.220621
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Tacoma Dental Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4711535,
+                    47.2556902
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Dennis Hahn, DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.314734,
+                    47.336754
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Cedar Dental Care"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4751931,
+                    47.2422651
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Community Health Care"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4492058,
+                    47.2520463
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Pla Endodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA"
+                },
+                name: "Jeremy Yoon, DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5357344,
+                    47.219278
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|°{ZY'DA "
+                },
+                name: "Bordeaux Orthodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|µ{ZY'DA¡"
+                },
+                name: "Northwest Dental Services"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.441844,
+                    47.256924
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|µ{ZY'DA¢"
+                },
+                name: "Dodobara Gary Y, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3209558,
+                    47.301824
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|µ{ZY'DA£"
+                },
+                name: "Parkland Denture Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4349901,
+                    47.1430659
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|µ{ZY'DA¤"
+                },
+                name: "Des Moines Dental Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3244592,
+                    47.4056119
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA¥"
+                },
+                name: "Kuritani Ronald H DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4662592,
+                    47.2749269
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA¦"
+                },
+                name: "Family Care Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5284644,
+                    47.2454354
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA§"
+                },
+                name: "Kois John C, DMD MSD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3537916,
+                    47.2341609
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA¨"
+                },
+                name: "Keith Phillips, D.M.D, M.S.D."
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3535321,
+                    47.2341556
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA©"
+                },
+                name: "32 Pearls - Tacoma"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4831629,
+                    47.2144576
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DAª"
+                },
+                name: "Tronset Allan DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4351869,
+                    47.1351988
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA«"
+                },
+                name: "Dupont Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.6228329,
+                    47.09492239999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA¬"
+                },
+                name: "Gentle Dental Lakewood"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5107947,
+                    47.16533399999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|º{ZY'DA­"
+                },
+                name: "Comfort Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3138387,
+                    47.3204747
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA®"
+                },
+                name: "Young’s Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3163018,
+                    47.3245029
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA¯"
+                },
+                name: "Forever Family Smile"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5367266,
+                    47.21775419999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA°"
+                },
+                name: "Kadoshima Mark F DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4334257,
+                    47.2124938
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA±"
+                },
+                name: "Pearl Street Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.516899,
+                    47.267592
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA²"
+                },
+                name: "Smith & Wetterhus Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2819831,
+                    47.1534267
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA³"
+                },
+                name: "J Mark Burnett D D S"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.536195,
+                    47.2370019
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DA´"
+                },
+                name: "Beaty Drew, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3138682,
+                    47.3240786
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|¿{ZY'DAµ"
+                },
+                name: "Bright Now! Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5183025,
+                    47.1630431
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA¶"
+                },
+                name: "Bob Williams DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4676689,
+                    47.2745308
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA·"
+                },
+                name: "Brain Kim DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.324592,
+                    47.31588199999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA¸"
+                },
+                name: "Robert A Osborne, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4813942,
+                    47.2418182
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA¹"
+                },
+                name: "Morris Ward A DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4324167,
+                    47.1383927
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DAº"
+                },
+                name: "Ajey Varma, DDS, PLLC"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA»"
+                },
+                name: "Proctor Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4875701,
+                    47.2717631
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA¼"
+                },
+                name: "Surprise Lake Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2957446,
+                    47.2467947
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ä{ZY'DA½"
+                },
+                name: "Madhuri Vanama, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|É{ZY'DA¾"
+                },
+                name: "Bella Smiles Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.292847,
+                    47.169007
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|É{ZY'DA¿"
+                },
+                name: "Hughes James E DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5839546,
+                    47.3049209
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|É{ZY'DAÀ"
+                },
+                name: "Aristos Dentistry - Christopher Nielsen, DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2006282,
+                    47.22927809999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|É{ZY'DAÁ"
+                },
+                name: "Berg Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Í{ZY'DAÂ"
+                },
+                name: "Pacific Hill Dental Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4334257,
+                    47.2124938
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Í{ZY'DAÃ"
+                },
+                name: "Schwartz R Stuart, MS, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Í{ZY'DAÄ"
+                },
+                name: "Andrew A Vorono, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4770982,
+                    47.2412338
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Í{ZY'DAÅ"
+                },
+                name: "Bioclear Matrix"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4811667,
+                    47.2220421
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Í{ZY'DAÆ"
+                },
+                name: "Evergreen Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.463501,
+                    47.2091101
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Î{ZY'DAÇ"
+                },
+                name: "Marvin S Tommervik Jr, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4348015,
+                    47.1480798
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Î{ZY'DAÈ"
+                },
+                name: "Patrick C Beug, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Î{ZY'DAÉ"
+                },
+                name: "Trillium Dental Specialists"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ó{ZY'DAÊ"
+                },
+                name: "Pediatric Dental Care Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ó{ZY'DAË"
+                },
+                name: "Greiwe Stephen P"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4875701,
+                    47.2717631
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ó{ZY'DAÌ"
+                },
+                name: "Osterhout Marvin J DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.326371,
+                    47.4026262
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ó{ZY'DAÍ"
+                },
+                name: "Dan B Taggart, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3265726,
+                    47.3006338
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ó{ZY'DAÎ"
+                },
+                name: "Smith Aaron D DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3581792,
+                    47.117831
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÏ"
+                },
+                name: "Cha Family Dentistry, Inc."
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÐ"
+                },
+                name: "Grant Denture Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÑ"
+                },
+                name: "Bird Albert R DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4745482,
+                    47.2146258
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÒ"
+                },
+                name: "Gentle Dental Puyallup"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3559438,
+                    47.0963064
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÓ"
+                },
+                name: "Mikaely E Moore Fujita, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2175743,
+                    47.3180534
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÔ"
+                },
+                name: "Polwarth Alison Nogle DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÕ"
+                },
+                name: "Kois John C"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAÖ"
+                },
+                name: "Sound Smiles Pediatric Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DA×"
+                },
+                name: "Sammy Pak, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ø{ZY'DAØ"
+                },
+                name: "Evergreen Oral Surgery Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAÙ"
+                },
+                name: "Michael S Korn, DDS PLLC"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2487005,
+                    47.4670233
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAÚ"
+                },
+                name: "Sunrise Dental Of Federal Way"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.324995,
+                    47.29989399999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAÛ"
+                },
+                name: "Community Health Care"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAÜ"
+                },
+                name: "Ryan Anardi, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2120267,
+                    47.3150222
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAÝ"
+                },
+                name: "St Anthony’s Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.507536,
+                    47.194807
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAÞ"
+                },
+                name: "Lindquist Clinic For Children"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4338087,
+                    47.1380936
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAß"
+                },
+                name: "Douglas J. Knight Orthodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4770982,
+                    47.2412338
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAà"
+                },
+                name: "Uptown Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5857877,
+                    47.3092118
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAá"
+                },
+                name: "Gagliardi James P DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|Ý{ZY'DAâ"
+                },
+                name: "Olsson John D DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.7459633,
+                    47.339172
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAã"
+                },
+                name: "Rainier Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2950509,
+                    47.0856701
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAä"
+                },
+                name: "Smiles @ Southcenter"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2686967,
+                    47.46473140000001
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAå"
+                },
+                name: "Sunrise Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.292199,
+                    47.1349919
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAæ"
+                },
+                name: "Gibbons John L Dntst"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4773432,
+                    47.24570730000001
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAç"
+                },
+                name: "Hooks Thomas W DDS Ms Endodontist"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.440086,
+                    47.2485656
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAè"
+                },
+                name: "Drake Scott R DDS Ms PC"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAé"
+                },
+                name: "Houpt David C DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.440086,
+                    47.2485656
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAê"
+                },
+                name: "Drake Scott R DDS Ms PC"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4417426,
+                    47.2529105
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAë"
+                },
+                name: "MA Tsun DMD MSD Orthodontist"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.440086,
+                    47.2485656
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|á{ZY'DAì"
+                },
+                name: "Heim Henry C DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.453641,
+                    47.261076
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAí"
+                },
+                name: "Town Square Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.34233,
+                    47.4671189
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAî"
+                },
+                name: "Bieker Katherine DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.516899,
+                    47.267592
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAï"
+                },
+                name: "Lalli Ashok DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4711535,
+                    47.2556902
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAð"
+                },
+                name: "Award Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAñ"
+                },
+                name: "Andrew David F DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAò"
+                },
+                name: "Mayfield Roger L DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4813942,
+                    47.2418182
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAó"
+                },
+                name: "Parkland Endodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.433243,
+                    47.146049
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAô"
+                },
+                name: "Milan Anthony J DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4813942,
+                    47.2418182
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAõ"
+                },
+                name: "South Hill Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ç{ZY'DAö"
+                },
+                name: "Robson Farrand Cory DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4813942,
+                    47.2418182
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DA÷"
+                },
+                name: "Varma Ajey DDS MSD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAø"
+                },
+                name: "McCullum Willie DDS P.S. Children’s Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAù"
+                },
+                name: "Hutchinson Sonia P D.M.D."
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAú"
+                },
+                name: "Robbins Holly DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAû"
+                },
+                name: "Vetter Eric A DDS MSD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAü"
+                },
+                name: "Trinty Bui DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAý"
+                },
+                name: "Mathews David P DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.492018,
+                    47.242529
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ì{ZY'DAþ"
+                },
+                name: "Vettter Eric DDS MSD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ñ{ZY'DAÿ"
+                },
+                name: "Lakeland Hills Dental Care"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2071299,
+                    47.2450985
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ñ{ZY'DB\u0000"
+                },
+                name: "Jones Cynthia A DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.484093,
+                    47.23201
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0001"
+                },
+                name: "Westgate Dental Arts"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0002"
+                },
+                name: "West Jason DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0003"
+                },
+                name: "Jones Robin DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4679886,
+                    47.2185551
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0004"
+                },
+                name: "Harbor Oral & Maxillofacial Surgery"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5839546,
+                    47.3049209
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0005"
+                },
+                name: "Hassel Brent Ms DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0006"
+                },
+                name: "Parkland Dental Lab"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4336215,
+                    47.15111539999999
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\u0007"
+                },
+                name: "Kim Jihyon DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4811667,
+                    47.2220421
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\b"
+                },
+                name: "Lee P Thelen, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\t"
+                },
+                name: "Baerg Steven D DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.501568,
+                    47.2433819
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|ö{ZY'DB\n"
+                },
+                name: "Emergency Dental Care USA"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u000b"
+                },
+                name: "Yee-Lo Karen DMD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\f"
+                },
+                name: "Henry Thomas R DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\r"
+                },
+                name: "Hopkins Debra DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u000e"
+                },
+                name: "Jones Philip DDS PS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u000f"
+                },
+                name: "Patricia Benca, DDS MS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u0010"
+                },
+                name: "Auburn Avenue Dental Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2274041,
+                    47.3100119
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u0011"
+                },
+                name: "Hsue Kuzi S DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u0012"
+                },
+                name: "Kent Station Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u0013"
+                },
+                name: "Smile Forever Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß|û{ZY'DB\u0014"
+                },
+                name: "Litowitz Dennis J DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u0015"
+                },
+                name: "Woodland Dental Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.321679,
+                    47.154125
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u0016"
+                },
+                name: "South 288th Family Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u0017"
+                },
+                name: "Dr Wayne Svoboda"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u0018"
+                },
+                name: "Butler Kelly Ann DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.433944,
+                    47.151397
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u0019"
+                },
+                name: "Lee Jerome DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4751931,
+                    47.2422651
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u001a"
+                },
+                name: "Denture Services Northwest"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u001b"
+                },
+                name: "Perry Mark C DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0000{ZY'DB\u001c"
+                },
+                name: "Harbor Kids Teeth"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB\u001d"
+                },
+                name: "Allenmore Medical Center"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    "undefined",
+                    "undefined"
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB\u001e"
+                },
+                name: "Renton Smile Dentistry"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.2317021,
+                    47.467777
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB\u001f"
+                },
+                name: "Kokich Orthodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4770982,
+                    47.2412338
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB "
+                },
+                name: "Andrew A Vorono, DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4329181,
+                    47.1377895
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB!"
+                },
+                name: "Affordable Dentures"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.468067,
+                    47.222027
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB\""
+                },
+                name: "McGriff Family Dentist"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3643802,
+                    47.314907
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB#"
+                },
+                name: "Dental Health Group"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.154796,
+                    47.168371
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB$"
+                },
+                name: "Comfort Dental"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.3200478,
+                    47.315647
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\u0005{ZY'DB%"
+                },
+                name: "Inspired Dentistry by Dr. Alice Chen"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.1947123,
+                    47.4450357
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\t{ZY'DB&"
+                },
+                name: "Andrew Robert J DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4348015,
+                    47.1480798
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\t{ZY'DB'"
+                },
+                name: "Light Dental Studios"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.5114059,
+                    47.19035820000001
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\t{ZY'DB("
+                },
+                name: "Smart Orthodontics"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4827635,
+                    47.2382813
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\t{ZY'DB)"
+                },
+                name: "Jones Ryan DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.433243,
+                    47.146049
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\n{ZY'DB*"
+                },
+                name: "Allenmore Orthodontic Clinic"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.480811,
+                    47.24165
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\n{ZY'DB+"
+                },
+                name: "Coyner David DDS"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.433243,
+                    47.146049
+                ]
+            }
+        },
+        {
+            type: "Feature",
+            properties: {
+                _id: {
+                    _bsontype: "ObjectID",
+                    id: "Uß}\n{ZY'DB,"
+                },
+                name: "Vandevanter Camille MSD"
+            },
+            geometry: {
+                type: "Point",
+                coordinates: [
+                    -122.4417426,
+                    47.2529105
+                ]
+            }
+        },
+
+        {
+            type: "Feature",
+            geometry: {
+                type: "Polygon",
+                coordinates: [
+                    [
+                        [
+                            -122.44670829035627,
+                            47.2456941888042
+                        ],
+                        [
+                            -122.44753030589277,
+                            47.24625221598508
+                        ],
+                        [
+                            -122.44865319999792,
+                            47.24645646663965
+                        ],
+                        [
+                            -122.44977609410307,
+                            47.24625221598508
+                        ],
+                        [
+                            -122.45059810963956,
+                            47.2456941888042
+                        ],
+                        [
+                            -122.45089898820822,
+                            47.24493189999919
+                        ],
+                        [
+                            -122.45059810963956,
+                            47.2441696002246
+                        ],
+                        [
+                            -122.44977609410307,
+                            47.24361155110455
+                        ],
+                        [
+                            -122.44865319999792,
+                            47.243407289480395
+                        ],
+                        [
+                            -122.44753030589277,
+                            47.24361155110455
+                        ],
+                        [
+                            -122.44670829035627,
+                            47.2441696002246
+                        ],
+                        [
+                            -122.44640741178762,
+                            47.24493189999919
+                        ],
+                        [
+                            -122.44670829035627,
+                            47.2456941888042
+                        ]
+                    ]
+                ]
+            },
+            properties: {
+                radius: 250,
+                center: [
+                    -122.4486532,
+                    47.2449319
+                ],
+                steps: 12
+            }
+        }
+    ]
+}
